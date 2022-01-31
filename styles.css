@@ -6,9 +6,9 @@
   background-position: left;
   background-repeat:no-repeat;
   background-size:2900%;
-  position: fixed;
+  /*position: fixed;
   right: 1100;
-  top: 500;
+  top: 500;*/
 }
 
 .heart:hover {
